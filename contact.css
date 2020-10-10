@@ -1,0 +1,16 @@
+body{
+    background: url(https://coolbackgrounds.io/images/backgrounds/white/white-triangle-369b8d2d.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+    .text-center{
+        color: darkblue;
+    }
+
+
+.container{
+    border: 5px ridge #3380A4;
+    border-radius: 10px 10px, 10px, 10px;
+    color: darkblue;
+    }
