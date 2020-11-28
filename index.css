@@ -4,10 +4,10 @@ body{
     background-size: cover;
     }
 
-.aboutme{
+/*.aboutme{
     border-radius: 50%;
     padding-top: 10px;
-}
+}*/
 
 .text-center{
         color: darkblue;
@@ -26,7 +26,5 @@ align-items: center;
 justify-content: space-evenly;
 }
 
-.contact-info{
-    
-}
+
 
