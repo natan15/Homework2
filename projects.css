@@ -3,15 +3,17 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     }
-
-    .text-center{
+    
+.text-center{
         color: darkblue;
     }
 
-
 .container{
-    border: 5px ridge #3380A4;
-    border-radius: 10px 10px, 10px, 10px;
-    color: darkblue;
-    }
+        border: 5px ridge #3380A4;
+        border-radius: 10px 10px, 10px, 10px;
+        color: darkblue;
+        }
 
+.title{
+    
+}
