@@ -12,5 +12,6 @@ body{
         border: 5px ridge #3380A4;
         border-radius: 10px 10px, 10px, 10px;
         color: darkblue;
+        align-items: center;
         }
 
